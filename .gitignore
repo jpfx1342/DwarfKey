@@ -1,0 +1,18 @@
+#Ignore backups
+*~
+
+#Ignore logs
+*.log
+
+#Ignore build artifacts
+/dist/
+/build/
+*.class
+Phlogiston.jar
+/*.zip
+
+#Ignore local user settings
+/nbproject/private/
+
+#Ignore temp files
+*.kate-swp
